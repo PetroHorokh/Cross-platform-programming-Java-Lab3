@@ -24,7 +24,7 @@ public class Main {
 
         fr *= 2;
 
-        System.out.println("Кількість додатнів: " + k);
+        System.out.println("Кількість доданків: " + k);
         System.out.println("Різниця лівої частини до правої: " + (fl - fr));
     }
 
