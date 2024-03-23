@@ -31,7 +31,7 @@ public class Main {
     public static void task2(Scanner scanner){
         System.out.println("Завдання №2");
 
-        double a, b, c, d, f;
+        double a, b, c, d;
 
         do{
             System.out.print("Введіть значення a: ");
